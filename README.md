@@ -1,4 +1,3 @@
-# covid19-Analysis
 # COVID-19 Data Analysis
 
 This project analyzes COVID-19 case trends, recoveries, and fatalities to uncover patterns, identify hotspots, and support data-driven decision-making.
