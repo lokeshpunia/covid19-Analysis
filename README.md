@@ -24,5 +24,5 @@ This project is a customizable finance dashboard designed to help you control yo
 - Microsoft Power BI Desktop (for viewing and editing `Personal Finance Dashboard.pbix`)
 
 ## Author
-
+Lokesh Punia
 
