@@ -1,32 +1,29 @@
 # covid19-Analysis
-Personal Finance Analysis
-A customizable finance dashboard designed to help you control your cash flow, track expenses, and plan future expenditures effectively.
+# Personal Finance Analysis
 
-Features
-Interactive Dashboard – Visualize income, expenses, and savings trends in Power BI.
+This project is a customizable finance dashboard designed to help you control your cash flow, track expenses, and plan future expenditures effectively.
 
-Customizable Categories – Adapt expense and income categories to your personal needs.
+## Features
+- **Interactive Dashboard** – Visualize your income, expenses, and savings trends.
+- **Customizable Categories** – Tailor the dashboard to fit your personal finance needs.
+- **Data Integration** – Analyze data from your financial records stored in `Finance Database.xlsx`.
+- **Future Planning** – Plan and forecast future expenditures based on historical data.
 
-Data Integration – Analyze and report using data from Finance Database.xlsx.
+## Files in the Project
+- **Finance Database.xlsx** – Contains the financial data used for analysis.
+- **Personal Finance Dashboard.pbix** – Power BI file for the interactive dashboard.
+- **README.md** – Documentation for the project.
 
-Future Planning – Forecast expenditures based on historical data.
+## How to Use
+1. Open the `Finance Database.xlsx` file and input your financial data.
+2. Open the `Personal Finance Dashboard.pbix` file in Power BI to view and interact with the dashboard.
+3. Customize the dashboard as needed to suit your financial goals.
 
-Files in the Project
-Finance Database.xlsx – Financial data for analysis.
+## Requirements
+- Microsoft Excel (for editing `Finance Database.xlsx`)
+- Microsoft Power BI Desktop (for viewing and editing `Personal Finance Dashboard.pbix`)
 
-Personal Finance Dashboard.pbix – Power BI file for interactive dashboard.
-
-README.md – Documentation.
-
-How to Use
-Open Finance Database.xlsx in Microsoft Excel and enter your financial data.
-
-Open Personal Finance Dashboard.pbix in Power BI Desktop to view and interact with the dashboard.
-
-Customize categories and visuals to match your financial goals.
-
-Requirements
-Microsoft Excel
-
-Microsoft Power BI Desktop
+## Author
+- **Your Name**  
+- [GitHub Profile](https://github.com/yourusername)
 
