@@ -25,9 +25,3 @@ This project analyzes COVID-19 case trends, recoveries, and fatalities to uncove
 - Seaborn
 - Jupyter Notebook
 
-Install dependencies using:
-```bash
-pip install pandas matplotlib seaborn jupyter
-
-**## Author**
-Lokesh Punia
